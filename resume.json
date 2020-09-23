@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Brian Ryall",
+    "label": "Senior Software Engineer",
+    "email": "",
+    "phone": "",
+    "url": "https://bryall.github.io",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "brianryall",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "bryall",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "University of Dayton",
+      "location": "Dayton, OH",
+      "description": "University of Dayton",
+      "position": "Computer Engineer",
+      "url": "http://udri.udayton.edu",
+      "startDate": "2017-07",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Wyle",
+      "location": "Dayton, OH",
+      "description": "Wyle",
+      "position": "Senior Software Engineer",
+      "url": "http://www.wyle.com",
+      "startDate": "2012-02",
+      "endDate": "2017-06",
+      "summary": "Supporting research and development projects on-site at the Air Force Research Labatory (AFRL) in the Sensors Directorate at Wright Patterson AFB, OH",
+      "highlights": [
+          "Part of a 10+ member team working on a Imagery Survailence Reconisence (ISR) viewer",
+          "Lead developer on major updates for the product"
+      ]
+    },
+    {
+      "name": "Jacobs Tech",
+      "location": "Dayton, OH",
+      "description": "Jacobs Technology",
+      "position": "Software/System Engineer",
+      "startDate": "2011-05",
+      "endDate": "2012-01",
+      "summary": "Supported the United States Air Force C-130 AMP (ASC/WLNM) system program office (SPO) by providing software and system architecture expertise as it relates to tactical data links radios.",
+      "highlights": [
+          "Support the C-130 AMP program office in acquistion activities",
+          "Helped created the capabilities requirements based document (CBD) for the integration of network centric radio onto the C-130H platform",
+          "Interfaced the government personal regarding requirements and technical aspects of the program",
+          "Evaluate information sources to develop a higher level of knowledge and understanding of the JTRS system being evaluated"
+      ]
+    },
+    {
+      "name": "L-3 Nova Engineering",
+      "location": "West Chester, OH",
+      "description": "L-3 Nova Engineering",
+      "position": "Software Engineer",
+      "startDate": "2006-08",
+      "endDate": "2011-04",
+      "summary": "Collaborated and developed C and C++ embedded projects within a large and small software team for Defense programs",
+      "highlights": [
+          "Created system design and implemented multi-threaded C++ software on a GPP running embedded linux",
+          "Lead system intregration into the overall system",
+          "Engineered new applications, drivers, and messaging systems, and ported code to new hardware",
+          "Made efficiency improvements for embedded platforms",
+          "Authored system design and guides"
+      ]
+    },
+    {
+      "name": "Applied Innovations",
+      "location": "Columbus, OH",
+      "description": "Applied Innovations",
+      "position": "Software Engineer",
+      "startDate": "2005-08",
+      "endDate": "2006-02",
+      "summary": "Provided tech support for specific telecommunications products focusing on network management for cell technology.",
+      "highlights": [
+          "Designed and implemented a web user interface for the 'Polled Mediation' product to allow customers to remotely configure and display logs"
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "area": "Computer Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2001-08",
+      "endDate": "2005-05"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Exceptional Performance Award",
+      "date": "2019",
+      "awarder": "UDRI",
+      "summary": "todo"
+    }
+  ],
+  "publications": [
+  ],
+  "skills": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "lastModified": "2020-09-23"
+  }
+}
